@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(236, 159, 233);
+  display: flexbox;
+}
+
+h1 {
+  text-align: center;
+}
+
+.d-flex {
+  display: flexbox;
+}
+
+img {
+  height: 175px;
+  width: 150px;
+  display: flex;
+  justify-content: flex-end;
+}
+
